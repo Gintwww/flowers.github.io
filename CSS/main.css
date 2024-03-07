@@ -4,11 +4,6 @@ body {
     display: flex;
 }
 
-body * {
-    box-sizing: border-box;
-    cursor: url('./img/cursor-ussual.png'), pointer;
-}
-
 .board {
     width: 100vw;
     height: 100vh;
