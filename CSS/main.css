@@ -4,64 +4,6 @@ body {
     display: flex;
 }
 
-.board {
-    width: 100vw;
-    height: 100vh;
-    background-color: rgb(124, 115, 207);
-}
-
-.title {
-    width: auto;
-    position: relative;
-    justify-content: center;
-    align-items: center;
-    align-content: center   ;
-}
-
-.btn {
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    transition: 0.09s;
-
-    width: 100px;
-    height: 50px;
-    font-size: 15px;
-    border-radius: 10px;
-    border: none;
-    outline: none;
-    text-transform: uppercase;
-    font-weight: bold;
-    box-shadow: rgb(0, 0, 0, 0.35) 0 5px 15px;
-}
-
-.main_btn 
-{
-    position: absolute;
-    left: 50%;
-    top: 45%;
-
-    width: 100px;
-    height: 50px;
-    font-size: 15px;
-    border-radius: 10px;
-    border: none;
-    outline: none;
-    text-transform: uppercase;
-    font-weight: bold;
-    box-shadow: rgb(0, 0, 0, 0.35) 0 5px 15px;
-}
-
-
-
-
-
-
-
-
-
-
-
 
 
 
